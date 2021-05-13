@@ -39,7 +39,7 @@
     "trezor-connect": "^7.0.1",
     "u2f-api": "^1.0.8",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0",
+    "vinyl-source-stream": "^2.0.0",
     "xss-filters": "^1.2.7"
   },
   "devDependencies": {
